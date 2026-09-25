@@ -1578,6 +1578,10 @@
 /pages/how-to/deploy-a-jekyll-site/ /pages/framework-guides/deploy-a-jekyll-site/ 301
 /pages/how-to/deploy-a-nextjs-site/ /workers/framework-guides/web-apps/nextjs 301
 /pages/framework-guides/deploy-a-svelte-site/ /pages/framework-guides/deploy-a-svelte-kit-site/ 301
+/pages/framework-guides/astro/ /pages/framework-guides/deploy-an-astro-site/ 301
+/pages/framework-guides/react/ /pages/framework-guides/deploy-a-react-site/ 301
+/pages/framework-guides/svelte/ /pages/framework-guides/deploy-a-svelte-kit-site/ 301
+/pages/framework-guides/vue/ /pages/framework-guides/deploy-a-vue-site/ 301
 /pages/how-to/deploy-anything/ /pages/framework-guides/deploy-anything/ 301
 /pages/how-to/deploy-a-react-application/ /pages/framework-guides/deploy-a-react-site/ 301
 /pages/framework-guides/deploy-a-react-application/ /pages/framework-guides/deploy-a-react-site/ 301
@@ -2449,7 +2453,7 @@
 /workers/tutorials/store-data-with-fauna/ https://fauna.com/blog/the-future-of-fauna 301
 /workers/tutorials/live-cursors-with-nextjs-rpc-do/ /resources/ 301
 /workers/tutorials/automated-analytics-reporting/ /resources/ 301
-/workers/ai/ /agent-lee/ 301
+/workers/ai/ /workers-ai/ 301
 /cloudflare-agent/ /agent-lee/ 301
 /workers/development-testing/ /workers/local-development/ 301
 /workers/development-testing/bindings-per-env/ /workers/local-development/bindings-per-env/ 301
@@ -2878,6 +2882,9 @@
 /cloudflare-one/insights/logs/use-logpush-with-ids/ /cloudflare-one/insights/logs/logpush/ids-logs/ 301
 /cloudflare-one/insights/logs/filter-views/ /cloudflare-one/insights/logs/logpush/network-firewall-log-filters/ 301
 /cloudflare-one/remote-browser-isolation/canvas-rendering/ /cloudflare-one/remote-browser-isolation/canvas-remoting/ 301
+
+# Agent setup (Windsurf rebranded to Devin Desktop)
+/agent-setup/windsurf/ /agent-setup/devin/ 301
 
 # ============================================================================
 # DYNAMIC REDIRECTS
