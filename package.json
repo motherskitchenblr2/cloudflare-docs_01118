@@ -88,7 +88,7 @@
 		"@types/react-dom": "19.0.4",
 		"@types/unist": "3.0.3",
 		"@typescript-eslint/parser": "8.70.1",
-		"astro": "7.3.3",
+		"astro": "7.4.7",
 		"astro-skills": "0.1.1",
 		"cf": "0.11.0",
 		"cidr-tools": "13.0.1",
